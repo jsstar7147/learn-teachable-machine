@@ -54,7 +54,8 @@ async function predict() {
     const data = {
       nothing: 'Off',
       hand: 'On',
-      me: 'off',
+      me: 'Off',
+      another: 'Off',
     };
 
     if (probability >= 75) {
