@@ -1,33 +1,3 @@
-<<<<<<< HEAD
-.container {
-  width: 480px;
-  padding: 10px;
-  background-color: blue;
-}
-
-.camera {
-  width: 480px;
-  height: 480px;
-  background-color: blueviolet;
-}
-
-.name {
-  text-align: center;
-  margin-top: 20px;
-  font-size: 20px;
-  font-weight: bold;
-}
-
-.percent {
-  text-align: center;
-  font-size: 14px;
-}
-
-.description {
-  margin-top: 10ox;
-  padding: 10px;
-}
-=======
 body {
   display: flex;
   justify-content: center;
@@ -37,7 +7,7 @@ body {
   width: 380px;
   padding: 10px;
   position: relative;
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: "Noto Sans KR", sans-serif;
   box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.2);
   border-radius: 10px;
 }
@@ -87,4 +57,3 @@ body {
 .icon .invisible {
   display: none;
 }
->>>>>>> b42d3cb5aedaa670a6b77b1b6dd3c9db079a7e78
